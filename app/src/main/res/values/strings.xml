@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="editTextHint">Enter Address</string>
+    <string name="buttonText">Get Weather</string>
+    <string name="tempString">Temperature: %.2f</string>
+    <string name="humidity">Humidity: %.2f</string>
+    <string name="wind_speed">Wind Speed: %.2f</string>
+    <string name="tempStringInit">Temperature:</string>
+    <string name="humidityInit">Humidity:</string>
+    <string name="wind_speedInit">Wind Speed:</string>
+    <string name="precip">%.2f chance of %s</string>
+    <string name="precipTextInit">enter a location</string>
+    <string name="noChangePrecip">No chance of precipitation</string>
+</resources>
